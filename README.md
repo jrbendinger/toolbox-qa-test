@@ -1,6 +1,6 @@
 # toolbox-qa-test
 
-### This repo contains the results of a technichal interview for a QA position. It consists of actual tests run as well as technical questions. The questions have been answered in English in their presented order. There is another folder called "Results" where you can find the answers to the technical questions.
+This repo contains the results of a technichal interview for a QA position. It consists of actual tests run as well as technical questions. The questions have been answered in English in their presented order. There is another folder called "Results" where you can find the answers to the technical questions.
 
 #### Revision de una Request en formato cURL:
 
